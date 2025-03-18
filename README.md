@@ -40,4 +40,4 @@ The EDA aims to uncover patterns, trends, and insights within the banking market
 - **Personalized Banking Services:** Offering premium services to high-net-worth individuals based on balance trends.  
 - **Customer Retention Strategies:** Younger customers are more active in transactions but may need better incentives to maintain balances.  
 
-This EDA provides valuable insights into customer behavior, financial trends, and risk factors, guiding data-driven decision-making in the banking sector. 🚀
+This EDA provides valuable insights into customer behavior, financial trends, and risk factors, guiding data-driven decision-making in the banking sector. 
